@@ -102,6 +102,7 @@ export default App;
 ```
 
 # Calculator.js 
+```
 import React, { useState } from "react";
 
 function Calculator() {
