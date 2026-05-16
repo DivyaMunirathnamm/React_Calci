@@ -1,4 +1,4 @@
-Simple Calculator - React Project
+# Simple Calculator - React Project
 
 ## AIM
 To  develop a Simple Calculator using React.js with clean and responsive design, ensuring a smooth user experience across different screen sizes.
